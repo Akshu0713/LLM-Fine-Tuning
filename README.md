@@ -1,4 +1,4 @@
-# 🚀 LLM Fine-Tuning with LoRA on Google Colab (Text-to-SQL)
+# 🚀 LLM Fine-Tuning with LoRA (Text-to-SQL)
 
 Fine-tune an open-source Large Language Model using **LoRA (Low-Rank Adaptation)** on a **Text-to-SQL** dataset with **Google Colab GPU**.
 
